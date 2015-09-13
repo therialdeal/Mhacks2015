@@ -15,6 +15,8 @@
 		19025BF61BA4DB230028AA8D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19025BF51BA4DB230028AA8D /* Images.xcassets */; };
 		19025BF91BA4DB230028AA8D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 19025BF71BA4DB230028AA8D /* LaunchScreen.xib */; };
 		19025C051BA4DB230028AA8D /* MHacks2015Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19025C041BA4DB230028AA8D /* MHacks2015Tests.swift */; };
+		19025C0F1BA4E1390028AA8D /* johncena.png in Resources */ = {isa = PBXBuildFile; fileRef = 19025C0E1BA4E1390028AA8D /* johncena.png */; };
+		19025C111BA4E2720028AA8D /* wwe.png in Resources */ = {isa = PBXBuildFile; fileRef = 19025C101BA4E2720028AA8D /* wwe.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		19025BFE1BA4DB230028AA8D /* MHacks2015Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MHacks2015Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		19025C031BA4DB230028AA8D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		19025C041BA4DB230028AA8D /* MHacks2015Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MHacks2015Tests.swift; sourceTree = "<group>"; };
+		19025C0E1BA4E1390028AA8D /* johncena.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = johncena.png; path = ../../../../Desktop/johncena.png; sourceTree = "<group>"; };
+		19025C101BA4E2720028AA8D /* wwe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wwe.png; path = ../../../../Desktop/wwe.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 		19025BE81BA4DB230028AA8D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				19025C0E1BA4E1390028AA8D /* johncena.png */,
+				19025C101BA4E2720028AA8D /* wwe.png */,
 				19025BE91BA4DB230028AA8D /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -199,7 +205,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				19025BF91BA4DB230028AA8D /* LaunchScreen.xib in Resources */,
+				19025C0F1BA4E1390028AA8D /* johncena.png in Resources */,
 				19025BF61BA4DB230028AA8D /* Images.xcassets in Resources */,
+				19025C111BA4E2720028AA8D /* wwe.png in Resources */,
 				19025BED1BA4DB230028AA8D /* GameScene.sks in Resources */,
 				19025BF41BA4DB230028AA8D /* Main.storyboard in Resources */,
 			);
